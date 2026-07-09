@@ -1,0 +1,7 @@
+telebot
+requests
+firebase-admin
+beautifulsoup4
+python-dotenv
+cloudscraper
+pyotp
